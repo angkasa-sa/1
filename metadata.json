@@ -1,0 +1,6 @@
+{
+  "name": "Mini WMS",
+  "description": "A high-density Warehouse Management System for inventory tracking and items master data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
